@@ -1,3 +1,4 @@
 # this repo contain birthday wish template.
+You can now wish your loved ones happy birthday with this template
 
-author - its dude
+Author - Himanshu Kumar Jha
